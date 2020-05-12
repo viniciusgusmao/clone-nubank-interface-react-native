@@ -12,7 +12,9 @@ My goal in replicating this implementation again was to reinforce my learning in
 
 <table>
 <tr>
-<td><img src="https://i.ibb.co/q1F443B/videotogif-2020-05-11-21-56-12.gif" /></td>
+<td colspan="2" align="center"><img src="https://i.ibb.co/q1F443B/videotogif-2020-05-11-21-56-12.gif" /></td>
+  </tr>
+  <tr>
 <td><img src="https://i.ibb.co/kHc601Q/tela1.png" /></td>
 <td><img src="https://i.ibb.co/6vc381Z/tela2.png" /></td>
 </tr>
